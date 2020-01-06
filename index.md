@@ -25,7 +25,7 @@ The first two items are available together in a kit [here](https://openconnectiv
 ## Set up the Raspberry Pi
 
 1. *Before* connecting power, attach the Explorer HAT board to the GPIO header on the Raspberry Pi. Be careful not to bend the pins, as the connector fits very tightly. (At this point, you don’t need the blue breadboard, but you can attach it later, with adhesive, to add other inputs and outputs to your IoTivity test setup.) 
-![](C:\Users\Roni\Desktop\work today\Concrete (Creative Circle) 2019\Images\attach Explorer HAT plus blue board.png)
+![](attach-Explorer-HAT-plus-blue-board.png)
 3. Insert the micro SD card into the slot under the Pi board.
 4. Connect an Ethernet cable between the Pi board and your DHCP-enabled network.
 5. Attach the power cable to the Pi board and plug it in.
